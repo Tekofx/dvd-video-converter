@@ -18,7 +18,7 @@ import playsound
 
 
 # Location of the folders of each CD
-video_camera_path = "/mnt/2C0A95780A953FAE/prueba_script/"
+video_camera_path = "/mnt/2C0A95780A953FAE/Camara video/"
 
 # Each x is the folder of a CD
 for x in os.listdir(video_camera_path):
@@ -41,4 +41,4 @@ for x in os.listdir(video_camera_path):
 
 
 # Conversion completed
-playsound.playsound("text.mp3")
+print("\n\n\n\nConversion completed!")
