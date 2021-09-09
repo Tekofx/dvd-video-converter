@@ -3,7 +3,7 @@
 Python script that converts .VOB files to mp4
 
 Requirements:
-        - HandBrakeCLI
+- HandBrakeCLI
 
 This program is suitable for DVD's with the following folder structure:
 
