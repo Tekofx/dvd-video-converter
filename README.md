@@ -1,4 +1,4 @@
-<h1 align="center">dvd-video-converter</h1>
+<h1 align="center">VOB to MP4</h1>
 
 Python script that converts .VOB files to mp4
 
